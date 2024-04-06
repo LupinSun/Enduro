@@ -80,7 +80,7 @@ assign major_roads = or not highway= highway=motorway|motorway_link|trunk|trunk_
 #assign elevationbufferreduce    = 0
 
 
-#when avaiable downhillmaxslope/uphillmaxslope/downhillmaxslopecost/uphillmaxslopecost on brouter and locus values ??to be defined
+#when avaiable downhillmaxslope/uphillmaxslope/downhillmaxslopecost/uphillmaxslopecost on brouter and locus values, to be defined
 #assign downhillmaxslope		switch or isunpaved and minor_roads not ispaved 
 #						switch equal combo_biketype_skilllevel 0 100
 #						switch equal combo_biketype_skilllevel 2 100
